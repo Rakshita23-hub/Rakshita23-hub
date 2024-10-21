@@ -12,3 +12,5 @@ scanf("%s", name);
 scanf("%d",&phone num);
 }
 //git lab
+demo for fetch commond
+today is monday
