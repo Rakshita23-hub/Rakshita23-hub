@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+  int a;
 double salary;
 char name;
 int age;
